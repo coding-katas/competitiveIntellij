@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c49401e-32af-495e-83c5-ced1266bdc64" name="Default Changelist" comment="" />
+    <list default="true" id="5c49401e-32af-495e-83c5-ced1266bdc64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/SecoursEnMer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/toboggan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1297A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298A-sum_numbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298B-removeduplicates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298C-removexxx.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298D_busstation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codewars/oldestAges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codingames/tribonacci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/codewars/countDuplicatesTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/codewars/twoOldestAges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1170A-ThreeIntegerAgain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1170A-ThreeIntegerAgain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/codewars/Vowels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/codewars/Vowels.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/codewars/VowelsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/codewars/VowelsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/codewarskotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/codewarskotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codewars/Vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codewars/Vowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewars/VowelsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewars/VowelsTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +30,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XnEs5Juzk2katl3R41nbDiUjhe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,78 +54,71 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/anis" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/clean_code/movie-service" />
   </component>
-  <component name="RunManager" selected="Kotlin.com.codingames.AsciiKt">
-    <configuration name="ExceptionAssertionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.toboggan">
+    <configuration name="toboggan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isograd.dev2019.toboggan" />
       <module name="codewarskotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codewars2.*" />
+          <option name="PATTERN" value="com.isograd.dev2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.codewars2" />
-      <option name="MAIN_CLASS_NAME" value="com.codewars2.ExceptionAssertionTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelsTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewarskotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.codewars.VowelsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelsTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewarskotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codewars2" />
-      <option name="MAIN_CLASS_NAME" value="com.codewars2.VowelsTest2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelsTestJava" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codewarskotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.codewars.VowelsTestJava" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.codingames.AsciiKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="_1297AKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="codewarskotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.codingames.AsciiKt" />
+      <option name="MAIN_CLASS_NAME" value="_1297AKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1298B_removeduplicatesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="codewarskotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_1298B_removeduplicatesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1298C_removexxxKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="codewarskotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_1298C_removexxxKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1298D_busstationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="codewarskotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_1298D_busstationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.codingames.AsciiKt" />
-        <item itemvalue="JUnit.VowelsTestJava" />
-        <item itemvalue="JUnit.VowelsTest2" />
-        <item itemvalue="JUnit.VowelsTest (2)" />
-        <item itemvalue="JUnit.ExceptionAssertionTest" />
+        <item itemvalue="Application.toboggan" />
+        <item itemvalue="Kotlin._1297AKt" />
+        <item itemvalue="Kotlin._1298D_busstationKt" />
+        <item itemvalue="Kotlin._1298C_removexxxKt" />
+        <item itemvalue="Kotlin._1298B_removeduplicatesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -143,26 +160,54 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1582016230881">
+    <state x="363" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582614022473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582016230881" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1582016230881">
+    <state x="363" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1582614022473" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1582617410756">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582016230881" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1582016230881">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582617410756" />
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom" timestamp="1583587324348">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582016230881" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1582016230881">
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
+    <state width="1237" height="151" key="GridCell.Tab.0.center" timestamp="1583587324348">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582016230881" />
+    <state width="1237" height="151" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
+    <state width="1237" height="151" key="GridCell.Tab.0.left" timestamp="1583587324348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
+    <state width="1237" height="151" key="GridCell.Tab.0.right" timestamp="1583587324348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1582235028861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582235028861" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1582235028861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582235028861" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1582235028861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582235028861" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1582235028861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582235028861" />
     <state x="452" y="118" key="chooseDestDirectoryDialog" timestamp="1582012157154">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="452" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1582012157154" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1582873799861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582873799861" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582016099958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

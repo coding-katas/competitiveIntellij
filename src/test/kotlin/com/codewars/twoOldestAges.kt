@@ -6,19 +6,19 @@ import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
 
-class VowelsTest {
+class TwoOldestAgesTest {
 
-    private lateinit var vowels: Vowels
+    private lateinit var oldestAges: OldestAges
 
     @BeforeEach
     fun configureSystemUnderTest() {
-        vowels = Vowels()
+        oldestAges = OldestAges()
     }
 
     @Test
     @DisplayName("Should return the correct message")
     fun shouldReturnCorrectMessage() {
-        assertThat(vowels.getCount("abracadabra")).isEqualTo(5)
+        assertThat(oldestAges.twoOldestAges(listOf(6,5,83,5,3,18))).isEqualTo(listOf(18, 83))
     }
 
 }
