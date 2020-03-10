@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c49401e-32af-495e-83c5-ced1266bdc64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/SecoursEnMer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/toboggan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1297A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298A-sum_numbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298B-removeduplicates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298C-removexxx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298D_busstation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codewars/oldestAges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codingames/tribonacci.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/codewars/countDuplicatesTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/codewars/twoOldestAges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/OeuvreDart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/TouchesBog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/codingames/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1170A-ThreeIntegerAgain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1170A-ThreeIntegerAgain.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/codewars/Vowels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/codewars/Vowels.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/codewars/VowelsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/codewars/VowelsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/SecoursEnMer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/SecoursEnMer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/toboggan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isograd/dev2019/toboggan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298B-removeduplicates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/codeforces/1298B-removeduplicates.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/codewarskotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/codewarskotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codewars/Vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codewars/Vowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewars/VowelsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewars/VowelsTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -58,9 +47,9 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/anis" />
     <property name="last_opened_file_path" value="C:/clean_code/movie-service" />
   </component>
-  <component name="RunManager" selected="Application.toboggan">
-    <configuration name="toboggan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.isograd.dev2019.toboggan" />
+  <component name="RunManager" selected="Kotlin._1298B_removeduplicatesKt">
+    <configuration name="OeuvreDart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isograd.dev2019.OeuvreDart" />
       <module name="codewarskotlin" />
       <extension name="coverage">
         <pattern>
@@ -72,15 +61,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1297AKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="TouchesBog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isograd.dev2019.TouchesBog" />
       <module name="codewarskotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_1297AKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isograd.dev2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toboggan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isograd.dev2019.toboggan" />
+      <module name="codewarskotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isograd.dev2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,27 +100,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1298C_removexxxKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.codingames.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="codewarskotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_1298C_removexxxKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1298D_busstationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="codewarskotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_1298D_busstationKt" />
+      <option name="MAIN_CLASS_NAME" value="com.codingames.TestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.toboggan" />
-        <item itemvalue="Kotlin._1297AKt" />
-        <item itemvalue="Kotlin._1298D_busstationKt" />
-        <item itemvalue="Kotlin._1298C_removexxxKt" />
         <item itemvalue="Kotlin._1298B_removeduplicatesKt" />
+        <item itemvalue="Kotlin.com.codingames.TestKt" />
+        <item itemvalue="Application.TouchesBog" />
+        <item itemvalue="Application.OeuvreDart" />
+        <item itemvalue="Application.toboggan" />
       </list>
     </recent_temporary>
   </component>
@@ -168,22 +157,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582617410756" />
-    <state width="1237" height="151" key="GridCell.Tab.0.bottom" timestamp="1583587324348">
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom" timestamp="1583832753915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="151" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
-    <state width="1237" height="151" key="GridCell.Tab.0.center" timestamp="1583587324348">
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583832753915" />
+    <state width="1237" height="151" key="GridCell.Tab.0.center" timestamp="1583832753915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="151" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
-    <state width="1237" height="151" key="GridCell.Tab.0.left" timestamp="1583587324348">
+    <state width="1237" height="151" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583832753915" />
+    <state width="1237" height="151" key="GridCell.Tab.0.left" timestamp="1583832753915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="151" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
-    <state width="1237" height="151" key="GridCell.Tab.0.right" timestamp="1583587324348">
+    <state width="1237" height="151" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583832753915" />
+    <state width="1237" height="151" key="GridCell.Tab.0.right" timestamp="1583832753915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="151" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583587324348" />
+    <state width="1237" height="151" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583832753915" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1582235028861">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -208,9 +197,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582873799861" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582016099958">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583774336151">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582016099958" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583774336151" />
   </component>
 </project>

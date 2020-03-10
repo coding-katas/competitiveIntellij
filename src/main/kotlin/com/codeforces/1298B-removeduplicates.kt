@@ -7,14 +7,14 @@
 
 fun main(args: Array<String>)
 {
-    fun readint()= readLine()!!.toInt()
+    fun readint()= "6"!!.toInt()
     fun readll()=readLine()!!.toLong()
-    fun readline()=(readLine()!!.split(" ").map{it.toInt()}).toIntArray()
+    fun readline()=("1 5 5 1 6 1"!!.split(" ").map{it.toInt()}).toIntArray()
     var n=readint()
     var h=readline()
-    val map = HashMap<Int, ArrayList<Int>>().withDefault { arrayListOf() }
+   // val map = HashMap<Int, ArrayList<Int>>().withDefault { arrayListOf() }
+    var map = mutableMapOf<Int, ArrayList<Int>>()
 
-    var l: List<Int> = emptyList()
     for (i in 0..h.size-1)
         if (h[i] in map)
             map[h[i]]!!.add(i)
